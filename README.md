@@ -113,7 +113,7 @@ All files were compiled on Ubuntu 14.04 LTS.
 All programs and functions were compiled with `gcc 4.8.4` using flags `-Wall -Werror -Wextra and -pedantic`.
 
 ## Styling
-All files have been written in the Betty Style.
+All codes are Wrtten using Betty Style.
 
 ## Authors
-**Yonas Leykun** 
+**Tekenatei Franklyn** 
