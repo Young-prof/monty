@@ -1,8 +1,6 @@
 0x19. C - Stacks, Queues - LIFO, FIFO
 
 
-![image](https://user-images.githubusercontent.com/110098940/231887828-9585310b-15e6-434a-9422-a02f5d6e8255.png)
-
 
 Table of Contents:
 
@@ -18,7 +16,7 @@ Table of Contents:
 
 Author Details:
 
-    Karlie Moyo - karlieemoyo@gmail.com
+    Tekenatei Franklyn - frankiperezi99@gmail.com
 
 
 Project Description
@@ -67,7 +65,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 
     Any output must be printed on stdout.
     Any error message must be printed on stderr.
-        Here is a link to a GitHub repository that could help you making sure your errors are printed on stderr.
+    Here is a link to a GitHub repository that could help you making sure your errors are printed on stderr.
 
 The Monty language
 
@@ -515,4 +513,4 @@ Known Bugs
 The following tasks did not pass all checks: tasks 0, 11 and 15.
 Collaborate
 
-To collaborate, reach me through the email addresses karlieemoyo@gmail.com
+
